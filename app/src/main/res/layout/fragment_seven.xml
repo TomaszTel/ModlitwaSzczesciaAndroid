@@ -4,14 +4,14 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".Thirdragment">
+    tools:context=".sevenfragment">
 
     <TextView
         android:id="@+id/textview_first"
 
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="@string/hello_third_fragment"
+        android:text="@string/hello_seven_fragment"
         android:textColor="@color/PrayerHeader"
         android:textSize="23sp"
         app:layout_constraintEnd_toEndOf="parent"
@@ -45,7 +45,7 @@
                 android:textSize="20sp"
                 android:scrollbars="vertical"
 
-                android:text="@string/hello_third_Text_Prayer"
+                android:text="@string/hello_seven_Text_Prayer"
 
                 tools:ignore="MissingConstraints" />
 

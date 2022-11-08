@@ -4,6 +4,19 @@
     <!-- Strings used for fragments for navigation -->
     <string name="first_fragment_label">Modlitwa Szczęscia - 1</string>
     <string name="second_fragment_label">Modlitwa Szczęscia - 2</string>
+    <string name="third_fragment_label">Modlitwa Szczęscia - 3</string>
+    <string name="four_fragment_label">Modlitwa Szczęscia - 4</string>
+    <string name="five_fragment_label">Modlitwa Szczęscia - 5</string>
+    <string name="six_fragment_label">Modlitwa Szczęscia - 6</string>
+    <string name="seven_fragment_label">Modlitwa Szczęscia - 7</string>
+    <string name="eight_fragment_label">Modlitwa Szczęscia - 8</string>
+    <string name="nine_fragment_label">Modlitwa Szczęscia - 9</string>
+    <string name="ten_fragment_label">Modlitwa Szczęscia - 10</string>
+    <string name="eleven_fragment_label">Modlitwa Szczęscia - 11</string>
+    <string name="twelve_fragment_label">Modlitwa Szczęscia - 12</string>
+    <string name="thirteen_fragment_label">Modlitwa Szczęscia - 13</string>
+    <string name="fourteen_fragment_label">Modlitwa Szczęscia - 14</string>
+    <string name="fiveteen_fragment_label">Modlitwa Szczęscia - 15</string>
     <string name="next">Następna Modlitwa</string>
     <string name="previous">Poprzednia Modlitwa</string>
 
@@ -27,6 +40,69 @@ Na pamiątkę tych wszystkich zniewag i boleści, które wycierpiałeś w okresi
 </string>
     <string name="hello_second_fragmentAdd3">Westchnienie: Jezu, Miłości moja, bądź uwielbiony i zmiłuj się nade mną!</string>
 
+    <string name="hello_third_fragment">Modlitwa Trzecia</string>
+    <string name="hello_third_Text_Prayer">O Jezu! Stworzycielu nieba i ziemi, którego żadna rzecz nie może ograniczyć ani objąć, Ty który ogarniasz i zespalasz wszystkich swoją potęgą, wspomnij sobie na gorzką boleść, którą odczuwałeś, kiedy kaci, przywiązując Twoje święte ręce i nogi do krzyża, przeszyli je na wylot grubymi, stępionymi gwoździami. Rozciągając Cię z niesłychanym okrucieństwem na krzyżu, nie syci Twych cierpień, miotali obelgami na wszystkie strony i dając upust swojej wściekłości, powiększali Twoje Rany przez zadawanie dodatkowych katuszy.
+
+Ze względu na ogrom cierpień, których doświadczyłeś podczas ukrzyżowania, daj mi Twoją świętą bojaźń i Twoją prawdziwą miłość. Amen
 
 
+</string>
+    <string name="hello_four_fragment">Modlitwa Czwarta</string>
+    <string name="hello_four_Text_Prayer">O Jezu! Lekarzu niebieski, wzniesiony na krzyżu, by nasze rany uleczyć Twoimi, wspomnij na obicia i złamania, jakich doznałeś w swoich członkach, tak, że każdy z nich został w jakiś sposób naruszony. Od stóp do głów nie znaleziono miejsca na Twoim Ciele, które nie byłoby pokryte raną. W takim stanie poniżenia, zapominając o własnych cierpieniach, nie przestawałeś modlić się do Ojca za nieprzyjaciół słowami: „Ojcze, odpuść im, bo nie wiedzą co czynią!”.
+
+Na mocy tego bezgranicznego Miłosierdzia i na pamiątkę owej boleści, spraw, żeby pamięć o Twojej gorzkiej Męce przywiodła nas do doskonałej skruchy i przyniosła odpuszczenie wszystkich popełnionych grzechów. Amen.
+
+</string>
+    <string name="hello_five_fragment">Modlitwa Piąta</string>
+    <string name="hello_five_Text_Prayer">O Jezu! Zwierciadło odwiecznego Blasku, wspomnij na smutek, którego doznałeś, kiedy w świetle Boskiego poznania, rozważając nad przeznaczeniem tych, którzy mieli być odkupieni dzięki zasługom Twojej świętej Męki, widziałeś zarazem wielkie tłumy skazanych, którzy szli na potępienie z powodu rozlicznych grzechów. Żal Ci było tych nieszczęśliwych ludzi zgubionych i zrozpaczonych.
+
+Przez to bezgraniczne współczucie i miłosierdzie, a zwłaszcza przez wzruszającą dobroć okazaną skruszonemu łotrowi współukrzyżowanemu na Golgocie, kiedy mu powiedziałeś: „Dziś ze Mną będziesz w raju!” – błagam Cię, o słodki Jezu, okaż miłosierdzie mnie grzesznemu w godzinę śmierci. Amen.
+</string>
+    <string name="hello_six_fragment">Modlitwa Szósta</string>
+    <string name="hello_six_Text_Prayer">O Jezu! Łaskawy i upragniony Królu, wspomnij na boleść, którą odczułeś, kiedy nagi jak nędzarz, przykuty do krzyża, zostałeś na tym drzewie hańby wyśmiany i wzgardzony. Wszyscy Twoi krewni i przyjaciele opuścili Cię z wyjątkiem ukochanej Matki, która stała wiernie przy Tobie podczas konania. Ty zaś poleciłeś Ją swojemu wiernemu Uczniowi, mówiąc do Najświętszej Maryi Panny: „Niewiasto, oto syn Twój” i do świętego Jana: „Oto Matka Twoja!”.
+
+Błagam Cię, o mój Zbawicielu, przez miecz boleści, który ongiś przeszył duszę Twojej Najboleśniejszej Matki, współczuj ze mną we wszystkich utrapieniach i doświadczeniach, zarówno cielesnych jak i duchowych, abym je wszystkie przezwyciężył w życiu, a zwłaszcza w ostatniej godzinie przed nadejściem śmierci. Amen.
+</string>
+    <string name="hello_seven_fragment">Modlitwa Siódma</string>
+    <string name="hello_seven_Text_Prayer">O Jezu! Łaskawy i upragniony Królu, wspomnij na boleść, którą odczułeś, kiedy nagi jak nędzarz, przykuty do krzyża, zostałeś na tym drzewie hańby wyśmiany i wzgardzony. Wszyscy Twoi krewni i przyjaciele opuścili Cię z wyjątkiem ukochanej Matki, która stała wiernie przy Tobie podczas konania. Ty zaś poleciłeś Ją swojemu wiernemu Uczniowi, mówiąc do Najświętszej Maryi Panny: „Niewiasto, oto syn Twój” i do świętego Jana: „Oto Matka Twoja!”.
+
+Błagam Cię, o mój Zbawicielu, przez miecz boleści, który ongiś przeszył duszę Twojej Najboleśniejszej Matki, współczuj ze mną we wszystkich utrapieniach i doświadczeniach, zarówno cielesnych jak i duchowych, abym je wszystkie przezwyciężył w życiu, a zwłaszcza w ostatniej godzinie przed nadejściem śmierci. Amen.
+</string>
+    <string name="hello_eight_fragment">Modlitwa Ósma</string>
+    <string name="hello_eight_Text_Prayer">O Jezu! Słodyczy serc, niepojęta Dobroci, przez gorzką żółć i ocet, których skosztowałeś na krzyżu z miłości ku nam, spraw, byśmy godnie przyjmowali Twoje Ciało i Twoją bezcenną Krew, lekarstwo i pociechę naszych dusz, w czasie ziemskiego pielgrzymowania i w godzinie śmierci. Amen.
+</string>
+    <string name="hello_nine_fragment">Modlitwa Dziewiąta</string>
+    <string name="hello_nine_Text_Prayer">O Jezu! Cnoto królewska, Radości ducha, wspomnij na boleść, którą znosiłeś, kiedy zatopiony w smutku z powodu zbliżającej się śmierci, znieważony i wykpiony przez wybrany naród, opuszczony przez Ojca Twego, wołałeś głośno: „Boże Mój, Boże Mój, czemuś Mnie opuścił?”.
+
+Zaklinam Cię, o mój Zbawicielu, przez doznaną trwogę, abyś mnie nie opuścił podczas cierpienia i trwogi, jakie wywołuję zbliżająca się śmierć i sąd Boży. Amen.
+
+
+</string>
+    <string name="hello_ten_fragment">Modlitwa Dziesiąta</string>
+    <string name="hello_ten_Text_Prayer">O Jezu! Który jesteś Początkiem i Końcem wszystkich rzeczy, Życiem i Szczytem cnót, wspomnij sobie, że ze względu na mnie zostałeś pogrążony w niezmierzonych boleściach. Przez ten bezmiar cierpień, spowodowany okrutnymi Ranami, które zadały grzechy świata, naucz mnie zachowywać z prawdziwą miłością Twoje przykazania, bo one dla tych, którzy Cię kochają są łatwą i jedyną drogą do zbawienia. Amen.
+</string>
+    <string name="hello_eleven_fragment">Modlitwa Jedynasta</string>
+    <string name="hello_eleven_Text_Prayer">O Jezu! Niezgłębione źródło Miłosierdzia, błagam Cię na pamięć o Twoich Ranach, których dojmujący ból doszedł do szpiku kości i wypełnił wszystkie wnętrzności, wyrwij mnie nędznego z grzechu i ukryj mnie w głębi tych Ran przed zagniewanym Obliczem Sprawiedliwości, aż minie Twe oburzenie i słuszny gniew. Amen.
+</string>
+    <string name="hello_twelve_fragment">Modlitwa Dwunasta</string>
+    <string name="hello_twelve_Text_Prayer">O Jezu! Zwierciadło prawdy, Miłości zwieńczająca wszystkie siły ducha, Znaku jedności, rozdarty i umęczony obfitym upływem godnej uwielbienia Krwi, wspomnij na niezliczone Rany, które okryły Cię od stóp do głowy. O niezmierna i totalna boleści, którą zniosłeś w swym dziewiczym Ciele z miłości ku nam. Jezu Chryste, co mogłeś nadto dla mnie uczynić? Czego jeszcze nie dokonałeś?
+Zaklinam Cię, o mój Zbawicielu, wszystkie swoje Rany znacz drogocenną Krwią w moim sercu, abym mógł w nim ustawicznie czytać boleść i miłość Twoją. Spraw, aby przez moje przylgnięcie do Twojej Męki zaznaczył się w mojej duszy owoc Twych cierpień. Niech Twoja miłość wzrasta w niej codziennie do czasu, aż stanę przed Tobą, Skarbie wszystkich dóbr i wszystkich radości! O słodki Jezu, daj mi w życiu wiecznym to, o co Cię błagam. Amen.
+</string>
+    <string name="hello_thirteen_fragment">Modlitwa Trzynasta</string>
+    <string name="hello_thirteen_Text_Prayer">O Jezu! Odwieczna Potęgo, Królu nieśmiertelny i niezwyciężony, wspomnij na boleść, którą znosiłeś, kiedy opuściły Cię wszystkie siły, zarówno ciała jak i ducha, kiedy skłaniając głowę oświadczyłeś: „Wykonało się”. Błagam Cię, Panie Jezu, przez zupełne wyczerpanie i przygniatający niepokój, jakich doznałeś przed dopełnieniem dzieła Odkupienia, zmiłuj się nade mną w ostatniej godzinie życia, kiedy dusza moja będzie w udręce, a serce pełne trwogi. W Tobie ufność pokładam. Amen.
+</string>
+    <string name="hello_fourteen_fragment">Modlitwa Czternasta</string>
+       <string name="hello_fourteen_Text_Prayer">O Jezu! Jedyny Synu Ojca, Blasku i Wyrazie Jego istoty, wspomnij na serdeczne i pokorne polecenie się Ojcu w ufnej wypowiedzi: „Ojcze, w ręce Twoje oddaję ducha mego”. I wtedy skonałeś. Ale choć Ciało okaleczone i zbroczone Krwią, oddając ostatnie tchnienia, przestało żyć, Twa Boska moc otworzyła źródło Miłosierdzia i wylała zdroje łask odkupieńczych dla ludzkości.
+
+       </string>
+    <string name="hello_fiveteen_fragment">Modlitwa Piętnasta</string>
+    <string name="hello_fiveteen_Text_Prayer">O Jezu! Usymbolizowany w życiodajnej winorośli, wspomnij na obficie broczącą Krew, która popłynęła hojnie z Twego Ciała, jak wino z dojrzałych gron w tłoczni.
+
+Przebity włócznią żołnierza, wylałeś wszystką Krew i Wodę do ostatniej kropli. Wisząc wysoko na krzyżu z opadłą Najświętszą Głową, stałeś się jak pęk zeschniętej mirry, bezwładny, odrętwiały, bez śladu życia na zewnątrz i we wnętrzu Ciała, aż do szpiku kości.
+
+Przez gorzką Mękę i przez wylaną drogocenną Krew błagam Cię, o słodki Jezu, zrań moje serce łaską, ażeby łzy pokuty i miłości stały się dla mnie dniem i nocą tak potrzebne, jak chleb powszedni. Nawróć mnie całkowicie do siebie, aby me serce utworzyło dla Ciebie stałe mieszkanie, aby moja mowa była Ci miła, a koniec życia uwieńczony nadzieją spotkania się z Tobą w raju, gdzie mógłbym Cię chwalić i błogosławić na wieki wraz ze wszystkimi Świętymi. Amen.
+
+
+
+       </string>
 </resources>

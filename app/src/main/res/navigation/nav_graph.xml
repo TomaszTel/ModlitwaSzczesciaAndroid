@@ -31,9 +31,115 @@
     <fragment
         android:id="@+id/thirdragment"
         android:name="com.example.modlitwaszczcia.Thirdragment"
-        android:label="fragment_third"
+        android:label="@string/third_fragment_label"
         tools:layout="@layout/fragment_third" >
-        <action android:id="@+id/action_thirdragment_to_SecondFragment" />
+        <action
+            android:id="@+id/action_thirdragment_to_fourfragment2"
+            app:destination="@id/fourfragment" />
     </fragment>
+    <fragment
+        android:id="@+id/fourfragment"
+        android:name="com.example.modlitwaszczcia.fourfragment"
+        android:label="@string/four_fragment_label"
+        tools:layout="@layout/fragment_four" >
+        <action
+            android:id="@+id/action_fourfragment_to_fivefragment"
+            app:destination="@id/fivefragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/fivefragment"
+        android:name="com.example.modlitwaszczcia.fivefragment"
+        android:label="@string/five_fragment_label"
+        tools:layout="@layout/fragment_five" >
+        <action
+            android:id="@+id/action_fivefragment_to_sixfragment"
+            app:destination="@id/sixfragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/sixfragment"
+        android:name="com.example.modlitwaszczcia.sixfragment"
+        android:label="@string/six_fragment_label"
+        tools:layout="@layout/fragment_six" >
+        <action
+            android:id="@+id/action_sixfragment_to_sevenfragment"
+            app:destination="@id/sevenfragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/sevenfragment"
+        android:name="com.example.modlitwaszczcia.sevenfragment"
+        android:label="@string/seven_fragment_label"
+        tools:layout="@layout/fragment_seven" >
+        <action
+            android:id="@+id/action_sevenfragment_to_eightfragment"
+            app:destination="@id/eightfragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/eightfragment"
+        android:name="com.example.modlitwaszczcia.eightfragment"
+        android:label="@string/eight_fragment_label"
+        tools:layout="@layout/fragment_eight" >
+        <action
+            android:id="@+id/action_eightfragment_to_ninefragment"
+            app:destination="@id/ninefragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/ninefragment"
+        android:name="com.example.modlitwaszczcia.ninefragment"
+        android:label="@string/nine_fragment_label"
+        tools:layout="@layout/fragment_nine" >
+        <action
+            android:id="@+id/action_ninefragment_to_tenfragment"
+            app:destination="@id/tenfragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/tenfragment"
+        android:name="com.example.modlitwaszczcia.tenfragment"
+        android:label="@string/ten_fragment_label"
+        tools:layout="@layout/fragment_ten" >
+        <action
+            android:id="@+id/action_tenfragment_to_elevenfragment"
+            app:destination="@id/elevenfragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/elevenfragment"
+        android:name="com.example.modlitwaszczcia.elevenfragment"
+        android:label="@string/eleven_fragment_label"
+        tools:layout="@layout/fragment_eleven" >
+        <action
+            android:id="@+id/action_elevenfragment_to_twelvefragment"
+            app:destination="@id/twelvefragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/twelvefragment"
+        android:name="com.example.modlitwaszczcia.twelvefragment"
+        android:label="@string/twelve_fragment_label"
+        tools:layout="@layout/fragment_twelve" >
+        <action
+            android:id="@+id/action_twelvefragment_to_thirteenfragment"
+            app:destination="@id/thirteenfragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/thirteenfragment"
+        android:name="com.example.modlitwaszczcia.thirteenfragment"
+        android:label="@string/thirteen_fragment_label"
+        tools:layout="@layout/fragment_thirteen" >
+        <action
+            android:id="@+id/action_thirteenfragment_to_fourteenfragment"
+            app:destination="@id/fourteenfragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/fourteenfragment"
+        android:name="com.example.modlitwaszczcia.fourteenfragment"
+        android:label="@string/fourteen_fragment_label"
+        tools:layout="@layout/fragment_fourteen" >
+        <action
+            android:id="@+id/action_fourteenfragment_to_fiveteenfragment"
+            app:destination="@id/fiveteenfragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/fiveteenfragment"
+        android:name="com.example.modlitwaszczcia.fiveteenfragment"
+        android:label="@string/fiveteen_fragment_label"
+        tools:layout="@layout/fragment_fiveteen" />
 
 </navigation>

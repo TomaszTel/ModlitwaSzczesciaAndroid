@@ -6,14 +6,14 @@ import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
 import androidx.navigation.fragment.findNavController
-import com.example.modlitwaszczcia.databinding.FragmentThirdBinding
+import com.example.modlitwaszczcia.databinding.FragmentFiveteenBinding
 
 /**
  * A simple [Fragment] subclass as the second destination in the navigation.
  */
-class Thirdragment : Fragment() {
+class fiveteenfragment : Fragment() {
 
-    private var _binding: FragmentThirdBinding? = null
+    private var _binding: FragmentFiveteenBinding? = null
 
     // This property is only valid between onCreateView and
     // onDestroyView.
@@ -24,7 +24,7 @@ class Thirdragment : Fragment() {
             savedInstanceState: Bundle?
     ): View? {
 
-        _binding = FragmentThirdBinding.inflate(inflater, container, false)
+        _binding = FragmentFiveteenBinding.inflate(inflater, container, false)
         return binding.root
 
     }
@@ -32,9 +32,12 @@ class Thirdragment : Fragment() {
     override fun onViewCreated(view: View, savedInstanceState: Bundle?) {
         super.onViewCreated(view, savedInstanceState)
 
-        binding.buttonSecond.setOnClickListener {
-            findNavController().navigate(R.id.action_thirdragment_to_fourfragment2)
-        }
+
+        //TO DO
+
+     //   binding.buttonSecond.setOnClickListener {
+           // findNavController().navigate(R.id.action_SecondFragment_to_FirstFragment)
+      //  }
     }
 
     override fun onDestroyView() {
