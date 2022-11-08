@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Modlitwa Szczęścia</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">Modlitwa Szczęscia - 1</string>
+    <string name="second_fragment_label">Modlitwa Szczęscia - 2</string>
+    <string name="next">Następna Modlitwa</string>
+    <string name="previous">Poprzednia Modlitwa</string>
+
+    <string name="hello_first_fragment">Modlitwa Pierwsza</string>
+    <string name="hello_first_Text_Prayer">O Jezu Chryste! Słodkości odwieczna wszystkich obejmujących Cię miłością. Radości przewyższająca wszelkie szczęście i oczekiwanie, prawdziwe Zbawienie i Nadziejo każdego grzesznika. Ty, który objawiłeś, że największym Twoim zadowoleniem jest być między ludźmi, z miłości dla nich po upływie zapowiedzianych czasów przyjąłeś naturę ludzką, wspomnij sobie, o Jezu, wszystkie cierpienia zniesione od chwili poczęcia, a zwłaszcza w czasie swojej świętej Męki, jak to przewidziała odwieczna myśl Boża i jak zdecydowała wola Najwyższego.
+
+Wspomnij sobie, Panie, że urządzając Wieczerzę Eucharystyczną wraz z uczniami, po umyciu im nóg, dałeś swoje Najświętsze Ciało i drogocenną Krew, a udzielając pociechy z właściwą sobie dobrocią przepowiedziałeś bliską swoją Mękę. Wspomnij na smutek i gorycz, które w udręczonej Duszy odczułeś, wyznając wobec najbliższego otoczenia: „Smutna jest dusza moja aż do śmierci”.
+
+Wspomnij wszystkie obawy, niepokoje i boleści, które Twoje delikatne Ciało zniosło przed ukrzyżowaniem, kiedy po odprawieniu po raz trzeci modlitwy, oblewając się krwawym Potem, zostałeś zdradzony przez swojego ucznia Judasza, aresztowany przez wybrany naród, oskarżony przez fałszywych świadków, niesprawiedliwie sądzony przez trzech sędziów tuż przed uroczystym świętem Wielkanocy czyli Paschy. Wspomnij, że przywiązano Cię do słupa i rozdarto Ciało biczami, że byłeś obnażony z własnych szat i odziany w inny strój na pośmiewisko, że Cię ukoronowano cierniami, do ręki włożono trzcinę, zasłonięto oczy i twarz, że Cię policzkowano i obrzucono obelgami.
+
+Na pamiątkę tych wszystkich zniewag i boleści, które wycierpiałeś w okresie poprzedzającym Mękę Krzyża, daj mi przed nadejściem śmierci przeżyć prawdziwą skruchę serca, szczerą i całkowitą spowiedź, odprawić godne zadośćuczynienie i otrzymać odpuszczenie wszystkich grzechów. Amen.
+</string>
+    <string name="hello_first_fragmentAdd1">Ojcze nasz...</string>
+    <string name="hello_first_fragmentAdd2">Zdrowaś Mario...</string>
+    <string name="hello_first_fragmentAdd3">Westchnienie: Jezu, Miłości moja, bądź uwielbiony i zmiłuj się nade mną!</string>
+    <string name="hello_second_fragment">Modlitwa Druga</string>
+
+
+    <string name="hello_secend_fragment">Modlitwa Druga</string>
+    <string name="hello_second_Text_Prayer">O Jezu! Prawdziwa wolności Aniołów, Raju niezmąconego szczęścia, wspomnij sobie na odrazę i smutek, które odczuwałeś, kiedy nieprzyjaciele otoczyli Cię jak wściekłe lwy i tysiącami zniewag, policzkowaniem, kaleczeniem i innymi wymyślnymi udrękami prześcigali się w zadawaniu cierpień. Ze względu na te tortury i na stek obelżywości, błagam Cię, Boski Zbawicielu, wyzwól mnie z więzów wszystkich nieprzyjaciół widzialnych i niewidzialnych, a roztaczając błogosławioną opiekę prowadź drogą doskonałości do zbawienia wiecznego. Amen.
+</string>
+    <string name="hello_second_fragmentAdd3">Westchnienie: Jezu, Miłości moja, bądź uwielbiony i zmiłuj się nade mną!</string>
+
+
+
+</resources>
