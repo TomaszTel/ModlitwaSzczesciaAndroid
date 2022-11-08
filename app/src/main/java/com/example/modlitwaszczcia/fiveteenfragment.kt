@@ -33,11 +33,9 @@ class fiveteenfragment : Fragment() {
         super.onViewCreated(view, savedInstanceState)
 
 
-        //TO DO
 
-     //   binding.buttonSecond.setOnClickListener {
-           // findNavController().navigate(R.id.action_SecondFragment_to_FirstFragment)
-      //  }
+
+
     }
 
     override fun onDestroyView() {
