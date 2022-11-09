@@ -142,12 +142,8 @@
         android:label="@string/fiveteen_fragment_label"
         tools:layout="@layout/fragment_fiveteen" >
         <action
-            android:id="@+id/action_fiveteenfragment_to_sixteenfragment"
-            app:destination="@id/sixteenfragment" />
+            android:id="@+id/action_fiveteenfragment_to_FirstFragment"
+            app:destination="@id/FirstFragment" />
     </fragment>
-    <fragment
-        android:id="@+id/sixteenfragment"
-        android:name="com.example.modlitwaszczcia.sixteenfragment"
-        android:label="Kalendarz" />
 
 </navigation>
