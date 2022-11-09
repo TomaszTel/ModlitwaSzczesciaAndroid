@@ -29,6 +29,7 @@ class MainActivity : AppCompatActivity() {
         setupActionBarWithNavController(navController, appBarConfiguration)
 
 
+
     }
 
     override fun onCreateOptionsMenu(menu: Menu): Boolean {
